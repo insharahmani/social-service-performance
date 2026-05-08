@@ -59,12 +59,6 @@ The dataset contains social service records including:
 * Problem type breakdown
 * Center-wise workload analysis
 
-### ✔ User-Friendly Design
-
-* Dark blue professional theme
-* Clean layout with modern visuals
-* Interactive slicers & filters
-* Easy navigation and readability
 
 ---
 
@@ -72,7 +66,7 @@ The dataset contains social service records including:
 
 * Consultation services are used more frequently than treatment services.
 * The 30–45 years age group represents the primary demographic category.
-* Case volume showed a significant increase during mid-2025.
+* Cases increased by 18% compared to the previous quarter.
 * Madinah Center handled the highest workload among all centers.
 * Certain problem categories consistently recorded higher service demand.
 
