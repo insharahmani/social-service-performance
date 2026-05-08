@@ -55,7 +55,6 @@ The dataset contains social service records including:
 * Monthly case trend analysis
 * Service type comparison
 * Age group distribution
-* Marital status analysis
 * Problem type breakdown
 * Center-wise workload analysis
 
