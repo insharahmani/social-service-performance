@@ -1,27 +1,25 @@
-# Social Service Performance Dashboard
+# 📊 Social Service Performance Dashboard
 
 ## 📌 Project Overview
-
-The **Social Service Performance Dashboard** is a Power BI project designed to analyze and visualize social service operations data in an interactive and meaningful way.
-The dashboard helps organizations monitor consultation and treatment services, identify demographic trends, track case distribution across centers, and gain actionable insights for better decision-making.
+The **Social Service Performance Dashboard** is a Power BI project designed to analyze and visualize social service operations data in an interactive and meaningful way. The dashboard helps organizations monitor consultation and treatment services, identify demographic trends, track case distribution across centers, and gain actionable insights for better decision-making.
 
 This project demonstrates skills in:
 
-* Data Cleaning & Transformation
-* Data Visualization
-* Dashboard Design
-* KPI Analysis
-* Power BI Development
-* Insight Generation
+- Data Cleaning & Transformation
+- Data Visualization
+- Dashboard Design
+- KPI Analysis
+- Power BI Development
+- Insight Generation
 
 ---
 
 # 🛠 Tools & Technologies Used
 
-* **Power BI** – Dashboard creation & data visualization
-* **Microsoft Excel** – Data storage & preprocessing
-* **Power Query** – Data transformation & cleaning
-* **DAX** – KPI calculations & measures
+- **Power BI** – Dashboard creation & data visualization  
+- **Microsoft Excel** – Data storage & preprocessing  
+- **Power Query** – Data transformation & cleaning  
+- **DAX** – KPI calculations & measures  
 
 ---
 
@@ -29,69 +27,67 @@ This project demonstrates skills in:
 
 The dataset contains social service records including:
 
-* Consultation services
-* Treatment services
-* Age groups
-* Marital status
-* Problem categories
-* Center-wise performance
-* Service dates
-* Case volume information
+- Consultation services  
+- Treatment services  
+- Age groups  
+- Marital status  
+- Problem categories  
+- Center-wise performance  
+- Service dates  
+- Case volume information  
 
 ---
 
 # 📊 Dashboard Features
 
-### ✔ Executive KPIs
+## ✔ Executive KPIs
+- Total Cases
+- Total Consultations
+- Total Treatments
+- Most Active Center
+- Top Age Group
 
-* Total Cases
-* Total Consultations
-* Total Treatments
-* Most Active Center
-* Top Age Group
-
-### ✔ Interactive Visuals
-
-* Monthly case trend analysis
-* Service type comparison
-* Age group distribution
-* Problem type breakdown
-* Center-wise workload analysis
-
+## ✔ Interactive Visuals
+- Monthly case trend analysis
+- Service type comparison
+- Age group distribution
+- Problem type breakdown
+- Center-wise workload analysis
 
 ---
 
 # 📈 Key Insights
 
-* Consultation services are used more frequently than treatment services.
-* The 30–45 years age group represents the primary demographic category.
-* Cases increased by 18% compared to the previous quarter.
-* Madinah Center handled the highest workload among all centers.
-* Certain problem categories consistently recorded higher service demand.
+- Consultation services are used more frequently than treatment services.
+- The 30–45 years age group represents the primary demographic category.
+- Cases increased by **18%** compared to the previous quarter.
+- Madinah Center handled the highest workload among all centers.
+- Certain problem categories consistently recorded higher service demand.
 
 ---
 
 # 🎯 Project Objectives
 
-* Improve visibility into social service operations
-* Identify high-demand service areas
-* Monitor center performance efficiently
-* Support data-driven decision-making
-* Present complex data in a visually engaging format
+- Improve visibility into social service operations
+- Identify high-demand service areas
+- Monitor center performance efficiently
+- Support data-driven decision-making
+- Present complex data in a visually engaging format
 
 ---
 
 # 📷 Dashboard Preview
 
-<img width="1123" height="636" alt="image" src="https://github.com/user-attachments/assets/ea888193-ce68-4d6e-8263-71520cd590c2" />
+![Dashboard Preview](dashboard_images/dashboard_preview.png)
 
+---
 
 # 🚀 How to Use
 
-1. Download the `.pbix` file.
-2. Open it using **Power BI Desktop**.
-3. Refresh the dataset if needed.
-4. Explore the interactive dashboard using filters and slicers.
+1. Download the `.pbix` file  
+2. Open it using **Power BI Desktop**  
+3. Refresh the dataset if needed  
+4. Explore the interactive dashboard using filters and slicers  
 
 ---
 
@@ -108,20 +104,17 @@ The dataset contains social service records including:
 
 # 💡 Skills Demonstrated
 
-* Data Analysis
-* Business Intelligence
-* Dashboard Development
-* Data Storytelling
-* Data Cleaning
-* Visual Analytics
-* KPI Monitoring
+- Data Analysis
+- Business Intelligence
+- Dashboard Development
+- Data Storytelling
+- Data Cleaning
+- Visual Analytics
+- KPI Monitoring
 
 ---
 
 # 👩‍💻 Author
 
-**Insha Rahmani**
-Data Analyst | Power BI Developer | SQL & Python Enthusiast
-
----
-
+### Insha Rahmani
+**Data Analyst | Power BI Developer | SQL & Python Enthusiast**
