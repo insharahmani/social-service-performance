@@ -78,7 +78,8 @@ The dataset contains social service records including:
 
 # 📷 Dashboard Preview
 
-<img width="1162" height="665" alt="image" src="https://github.com/user-attachments/assets/49b4014d-be56-4e28-ba84-f521e0471b77" />
+<img width="1163" height="668" alt="image" src="https://github.com/user-attachments/assets/c3c4d75d-5ba8-4fd7-8ddc-5784fb0bb18c" />
+
 
 
 ---
